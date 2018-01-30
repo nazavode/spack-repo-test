@@ -1,7 +1,7 @@
 from spack import *
 
 
-class ExampleDependent(Package):
+class ExampleDependency(Package):
     homepage = "http://www.example.com"
     url      = "http://www.example.com/example-1.2.3.tar.gz"
 
