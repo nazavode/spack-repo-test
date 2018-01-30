@@ -1,1 +1,1 @@
-# spack-repo-test
+Proof example for spack/spack#7128
