@@ -7,7 +7,7 @@ class ExampleDependent(Package):
 
     version('1.2.3', '0123456789abcdef0123456789abcdef')
 
-    depends_on('example-dependent')
+    depends_on('example-dependency')
 
     def install(self, spec, prefix):
         make()
